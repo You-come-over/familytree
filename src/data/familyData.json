@@ -69,17 +69,94 @@
                               "generation": "八代",
                               "child": "尚文，尚厦",
                               "open": true,
-                              "children": []
-                            },
-                            {
-                              "id": 13,
-                              "name": "瑞儒",
-                              "gender": "男",
-                              "remark": "六世",
-                              "generation": "八代",
-                              "open": true,
-                              "children": []
-                            }
+                              "children": [
+                                {
+                                  "id": 13,
+                                  "name": "尚文",
+                                  "gender": "男",
+                                  "remark": "字继谭，配偶关氏",
+                                  "child": "壁，之建，象，春，景，亨",
+                                  "generation": "九代",
+                                  "open": true,
+                                  "children": [
+                                    {
+                                      "id": 13,
+                                      "name": "景",
+                                      "gender": "男",
+                                      "remark": "字文辉，配偶张氏",
+                                      "child": "大忠",
+                                      "generation": "十代",
+                                      "open": true,
+                                      "children": [
+                                        {
+                                          "id": 57,
+                                          "name": "大忠",
+                                          "gender": "男",
+                                          "remark": "字泽薰，配偶周氏",
+                                          "child": "",
+                                          "generation": "十一代",
+                                          "open": false,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": 13,
+                                      "name": "亨",
+                                      "gender": "男",
+                                      "remark": "字文涛，配偶戴氏",
+                                      "child": "大贵",
+                                      "generation": "十代",
+                                      "open": true,
+                                      "children": [
+                                        {
+                                          "id": 57,
+                                          "name": "大贵",
+                                          "gender": "男",
+                                          "remark": "字圣传，配偶罗氏",
+                                          "child": "道清",
+                                          "generation": "十一代",
+                                          "open": true,
+                                          "children": [
+                                            {
+                                              "id": 67,
+                                              "name": "道清",
+                                              "gender": "男",
+                                              "remark": "字国海，配偶炎氏",
+                                              "child": "",
+                                              "generation": "十二代",
+                                              "open": false,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": 13,
+                                      "name": "春",
+                                      "gender": "男",
+                                      "remark": "字文远，配偶严氏",
+                                      "child": "大化",
+                                      "generation": "十代",
+                                      "open": true,
+                                      "children": [
+                                        {
+                                          "id": 57,
+                                          "name": "大化",
+                                          "gender": "男",
+                                          "remark": "字希圣，配偶郭氏",
+                                          "child": "道江",
+                                          "generation": "十一代",
+                                          "open": true,
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            } 
                           ]
                         }
                       ]
@@ -163,24 +240,30 @@
                   ]
                 },
                 {
-                  "id": 6,
-                  "name": "迁瑞",
+                  "id": 5.3,
+                  "name": "应鹰",
                   "gender": "男",
                   "remark": "字又谈，配偶葛氏，四世次子",
                   "open": true,
+                  "child": "荣",
+                  "generation": "五代",
                   "children": [
                     {
                       "id": 10,
-                      "name": "缄",
+                      "name": "知",
                       "gender": "男",
-                      "remark": "字仲阳，配偶张氏，五世",
+                      "remark": "字伯惺 名普光，配偶樊氏,公生于万历年庚子年三月十三日已时，终于康熙己末年十月二十三日子时",
                       "open": true,
+                      "child": "延弗，延祉，延蝦，延禧，延祐，",
+                      "generation": "六代",
                       "children": [
                         {
                           "id": 14,
-                          "name": "延雄",
+                          "name": "延禧",
                           "gender": "男",
-                          "remark": "字成房，配偶刘氏、左氏、戴氏，六世",
+                          "remark": "字凝公，配偶帅氏",
+                          "child": "珠，琳",
+                          "generation": "七代",
                           "open": true,
                           "children": [
                             {
@@ -195,10 +278,12 @@
                         },
                         {
                           "id": 15,
-                          "name": "延振",
+                          "name": "延祐",
                           "gender": "男",
                           "remark": "字来占，配偶韩氏，六世",
                           "open": true,
+                          "child": "祈，珊",
+                          "generation": "七代",
                           "children": []
                         },
                         {
@@ -214,40 +299,6 @@
                           "name": "延浦",
                           "gender": "男",
                           "remark": "字洪福，配偶廖氏，六世",
-                          "open": true,
-                          "children": []
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "id": 7,
-                  "name": "应膺",
-                  "gender": "男",
-                  "remark": "字元文，号叔房，配偶梅氏，与堂凤同入泮宫，四世三子",
-                  "open": true,
-                  "children": [
-                    {
-                      "id": 11,
-                      "name": "知",
-                      "gender": "男",
-                      "remark": "字伯惺，配偶樊氏，1600.3.13-1679.10.23，五世",
-                      "open": true,
-                      "children": [
-                        {
-                          "id": 18,
-                          "name": "延茀",
-                          "gender": "男",
-                          "remark": "字公恤，配偶龙氏，1625.3.16-1670.10.30，享年46岁，无子，六世",
-                          "open": true,
-                          "children": []
-                        },
-                        {
-                          "id": 19,
-                          "name": "延祉",
-                          "gender": "男",
-                          "remark": "六世",
                           "open": true,
                           "children": []
                         }
